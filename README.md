@@ -1,6 +1,6 @@
 <div align="center">
 
-![images/seal.png](images/seal.png)
+![images/bcilogo.svg](images/bcilogo.svg)
 
 <h1>BCI Training</h1>
 
