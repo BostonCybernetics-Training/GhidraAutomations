@@ -1,8 +1,10 @@
-<div align="center">
+<div align="left">
+  
+  <img src="images/bcilogo.svg" alt="BCI Training Logo" width="200">
 
-![images/bcilogo.svg](images/bcilogo.svg)
+  # BCI Training
 
-<h1>BCI Training</h1>
+</div>
 
 ---
 
