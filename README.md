@@ -25,7 +25,7 @@ The video series contains three topics:
 Watch the instructional video: [Introduction to the Ghidra API](https://youtu.be/XMd_LbcuQ44)
 Get the Jupyter notebook and [material](https://github.com/BostonCybernetics-Training/GhidraAutomations/tree/main/Ghidra_API_Introduction)
 
-Are you brand new to the Ghidra API and Ghidra scripting? Or perhaps you find yourself drowning in API documents. Start here to demystify the API.
+Are you brand new to the Ghidra API and Ghidra scripting? Or perhaps you find yourself drowning in API documents. Start here to demystify the API and learn what Ghidra scripting is all about.
 
 ## Extracting Mnemonic Frequency with Ghidra Scripting
 Watch the instructional video [Mnemonic Frequency](https://youtu.be/-IcugoENri8)
