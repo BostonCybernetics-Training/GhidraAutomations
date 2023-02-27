@@ -25,10 +25,17 @@ The video series contains three topics:
 Watch the instructional video: [Introduction to the Ghidra API](https://youtu.be/XMd_LbcuQ44)
 Get the Jupyter notebook and [material](https://github.com/BostonCybernetics-Training/GhidraAutomations/tree/main/Ghidra_API_Introduction)
 
+Are you brand new to the Ghidra API and Ghidra scripting? Or perhaps you find yourself drowning in API documents without a deeper understanding of how to navigate which was is up. Check out this material to demystify the API. This is a great place to start!
+
 ## Extracting Mnemonic Frequency with Ghidra Scripting
 Watch the instructional video [Mnemonic Frequency](https://youtu.be/-IcugoENri8)
 Get the Jupyter notebook and [material](https://github.com/BostonCybernetics-Training/GhidraAutomations/tree/main/MnemonicFrequency)
 
+Once you have a basic understanding of the API, you might be asking yourself, "so what?" Check out this material to begin to answer that question. We'll extract the frequency of mnemonics in a binary, then visualize the data using Jupyter and Python.
+
+
 ## Writing a Ghidra Python Script to Identify Vulnerable Functions
 Watch the instructional video [Vulnerable Functions](https://youtu.be/_NMxADLzP5Y)
 Get the Jupyter notebook and [material](https://github.com/BostonCybernetics-Training/GhidraAutomations/tree/main/PotentiallyVulnerableFunctions)
+
+Finally, we'll learn how to write a Ghidra Python script to idetentify potentially vulnerable functions in a binary. Then, we'll discover how to apply that script to a batch of binaries using Ghidra in headless mode.  
